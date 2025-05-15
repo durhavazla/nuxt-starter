@@ -61,6 +61,36 @@
       }
     ]
   },
+  "testimonials": {
+    "title": "Apa Katan Pemain Kami",
+    "description": "Dengarkan Pengalam para pemain yang telah merasakan sendiri betapa hebatnya situs KILAT289 dengan berbagai games terbaik yangdapat kita mainkan disini!.",
+    "items": [
+      {
+        "quote": "Situs KILAT289 emang super the best, punya banyak games yang hebat dan mudah dimenangkan.",
+        "author": {
+          "name": "Ben** ***",
+          "title": "Gamers",
+          "avatar": "images/person-1.jpg"
+        }
+      },
+      {
+        "quote": "Gak ada obat nih situs, keren abis dah dari dulu gak pernah nyesel main disitus ini dikasi menang terus terusan cuyyy.....",
+        "author": {
+          "name": "Ant***",
+          "title": "Penulis",
+          "avatar": "images/person-2.jpg"
+        }
+      },
+      {
+        "quote": "Keren dah main disini gak bikin nyesel winratenya tinggi jadi enak menang dan gak bosan main tiap hari.",
+        "author": {
+          "name": "Agu* ****",
+          "title": "Gamers",
+          "avatar": "images/person-3.jpg"
+        }
+      }
+    ]
+  },
   "cta": {
     "title": "Rasakan Sensasi Bermain Games Terbaik Hari Ini",
     "description": "Bergabunglah bersama situs KILAT289 untuk merasakan ppengalaman bermain games terbaik mu dan rasakan sendiri sensai winrate tertinggi yang unggul dan mudah menang yang takkan anda rasakan sebelumnya!.",
