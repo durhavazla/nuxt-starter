@@ -33,31 +33,31 @@
   },
   "features": {
     "title": "Mengapa Memilih KILAT289?",
-    "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
+    "description": "Kilat289 ialah salah satu agensi penyedia games online terkemuka saat ini di Indonesia, yang telah diakui dan dipercaya sebagai situs gaming terpopuler dengan jutaan jenis games online terbaik yang memiliki reputasi dan winrate tinggi yang mudah dimenangkan disetiap permainannya.",
     "items": [
       {
-        "title": "Server-Side Rendering",
-        "description": "Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO."
+        "title": "Games Yang Lengkap & Up To Date",
+        "description": "Situs KILAT289 memiliki jutaan ragam games online yang tersedia dan dapat dimainkan disitus ini, dan berbagai cara atau tutorial yang tersedia guna membantu para pemainnya."
       },
       {
-        "title": "Static Site Generation",
-        "description": "You can pre-render pages at build time for static websites. This helps with performance and scalability by serving content directly from a CDN."
+        "title": "Winrate Games Tertinggi Di Asia Tenggara",
+        "description": "Kumpulan games disitus ini telang memiliki winrate yang tinggi dan disertakan lansung resmi dari penyedia games atau provider yang ternama."
       },
       {
-        "title": "Auto-Routing",
-        "description": "Nuxt automatically generates routes based on the file structure inside the pages directory, reducing the need for manual configuration."
+        "title": "Pelayanan Ramah & Cepat Tanggap",
+        "description": "Dengan memiliki customer service yang berpengalaman, situs KILAT289 selalu memberikan pelayanan terbaik bagi seluruh pemain yang telah menjadi member kami."
       },
       {
-        "title": "File-based Configuration",
-        "description": "Nuxt uses a convention-over-configuration approach, allowing you to define configurations easily in nuxt.config.js without much boilerplate."
+        "title": "Metode Transaksi Lengkap dan Cepat",
+        "description": "Situs gaming KILAT289 telah bekerjasama dengan berbagai bank lokal, dan juga menyediakan metode transaksi yang handal dan cepat serta lengkap seperti; q-ris, e-wallet dan pulsa yang dapat kita gunakan untuk bertransaksi disitus ini."
       },
       {
-        "title": "Dynamic Imports",
-        "description": "It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks."
+        "title": "Custumer Service 24Jam Nonstop",
+        "description": "Layanan pelanggan / Live chat yang tersedia 24 jam non stop tersedia bagi semua member maupun yang bukan member KILAT289 guna bertanya semua layanan gaming yang kami sediakan."
       },
       {
-        "title": "SEO Friendly",
-        "description": "With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly."
+        "title": "Fleksibilitas dan Responsif Gaming",
+        "description": "Tampilan situs dan seluruh permainan games di KILAT289 telang dibekali visualisai engine terbaru yang handal serta up to date guna memberikan pengalaman bermain yang lancar terhadap semua pemain kami, serta tampilan yang sangat responsif terhadap semua tampilan perangkan pemain."
       }
     ]
   },
@@ -92,11 +92,11 @@
     ]
   },
   "cta": {
-    "title": "Start Building with Nuxt & Netlify",
-    "description": "Let your next project be smarter, faster, and effortlessly deployable.",
+    "title": "Rasakan Sensai Brmain Games Terbaik Hari Ini",
+    "description": "Bergabunglah bersama situs KILAT289 untuk merasakan ppengalaman bermain games terbaik mu dan rasakan sendiri sensai winrate tertinggi yang unggul dan mudah menang yang takkan anda rasakan sebelumnya!.",
     "buttons": [
       {
-        "label": "Mainkan Games Favoritmu",
+        "label": "Daftar & Mainkan Sekarang",
         "url": "https://tinyurl.com/Klt289Offcl"
       }
     ]
