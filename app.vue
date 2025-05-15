@@ -19,7 +19,7 @@ useHead({
     },
     {
       rel: 'amphtml',
-      href: 'https://kilat289.netlify.app/amp'
+      href: 'https://pub-e628be91a28e43ac898e661fd74bd53c.r2.dev/kilat289.netlify-app'
     }
   ],
   meta: [
@@ -31,7 +31,7 @@ useHead({
     {
       name: "google-site-verification",
       content:
-        "BqonHV6y--MgXz8KSikW2p-g4psEplTDLYYUxpEJ0qc.",
+        "gV0o-grrtmN1i0dJ4uXfwxMsD6BOSwt63Xd4WkS0wlI",
     },
   ],
   bodyAttrs: {
