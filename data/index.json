@@ -70,7 +70,7 @@
         "author": {
           "name": "Ben** ***",
           "title": "Gamers",
-          "avatar": "images/person-1.jpg"
+          "avatar": "images/person-1.png"
         }
       },
       {
@@ -78,7 +78,7 @@
         "author": {
           "name": "Ant***",
           "title": "Penulis",
-          "avatar": "images/person-2.jpg"
+          "avatar": "images/person-2.png"
         }
       },
       {
@@ -86,7 +86,7 @@
         "author": {
           "name": "Agu* ****",
           "title": "Gamers",
-          "avatar": "images/person-3.jpg"
+          "avatar": "images/person-3.png"
         }
       }
     ]
