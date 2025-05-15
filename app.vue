@@ -1,12 +1,12 @@
 <script setup>
 useHead({
-  htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  htmlAttrs: { lang: "id-ID" },
+  title: "KILAT289 - Situs Gaming Terlengkap Dengan Ragam Pilihan Terbaik 2025",
   meta: [
     {
       name: "description",
       content:
-        "Nuxt Starter is a minimal template created for quick landing pages, built with Nuxt and Tailwind CSS.",
+        "KILAT289 merupakan situs gaming terlengkap dengn beragan jenis games online terbaik 2025 yang juga memberikan layanan cepat dan ramah serta memiliki winrate gaming paling tinggi saat ini diseluruh Indonesia.",
     },
   ],
   bodyAttrs: {
