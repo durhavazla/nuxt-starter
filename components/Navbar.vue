@@ -16,7 +16,7 @@ const menuitems = [
     <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4">
       <div class="flex items-center justify-between">
         <a href="/" class="text-2xl font-bold text-zinc-800">
-          <span class="text-green-500"><NuxtImg class="rounded-lg" sizes="100vw lg:600px" :src="https://files.sitestatic.net/ImageFile/20240701165425000000bbdc049371YUGELAI__167x44.webp" :alt="imageAlt" v-if="image" /></span> KILAT289
+          <span class="text-green-500">&#8796;</span> KILAT289
         </a>
       </div>
       <nav class="flex w-auto">
