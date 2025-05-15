@@ -12,22 +12,22 @@
     ]
   },
   "logos": {
-    "title": "Follow Us On",
+    "title": "Find & Follow Us On",
     "icons": [
       {
         "name": "i-simple-icons-youtube"
       },
       {
-        "name": "i-simple-icons-github"
+        "name": "i-simple-icons-facebook"
       },
       {
-        "name": "i-simple-icons-openai"
+        "name": "i-simple-icons-twitter"
       },
       {
         "name": "i-simple-icons-google"
       },
       {
-        "name": "i-simple-icons-netlify"
+        "name": "i-simple-icons-github"
       }
     ]
   },
